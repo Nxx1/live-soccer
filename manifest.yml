@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: live-soccer
-  host: live-soccer.mybluemix.net
+  host: live-soccer
   disk_quota: 1024M
